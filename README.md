@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noam</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-- 🔭 I’m currently working on **Airbnb clone**
+- 🔭 I’m currently working on [Airbnb clone](https://boydem.github.io/airbnb-front)
 
 - 🌱 I’m currently learning **AngularJS**
 
