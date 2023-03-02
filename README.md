@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Airbnb clone](https://boydem.github.io/airbnb-front)
 
+- 👾 Play with simon [Simon says](https://boydem.github.io/Simon-s-game/)
+
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures Masterclass**
 
 <img src="https://res.cloudinary.com/dsperrtyj/image/upload/v1677143805/data-structure_xvjtb1.png" title="My learning proggress">
