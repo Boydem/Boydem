@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noam</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-- 🔭 I’m currently working on Airbnb clone with ReactTS | repo: [Click here](https://github.com/boydem/airbnb-frontend) gh-pages: [Click here](https://boydem.github.io/airbnb-frontend)
+- 🔭 I’m currently working on Airbnb clone with ReactTS | Repository: [Click here](https://github.com/boydem/airbnb-frontend) View on pages: [Click here](https://boydem.github.io/airbnb-frontend)
 
 - 👾 Play with simon [Simon says](https://boydem.github.io/simon-frontend/)
 
