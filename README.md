@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures Masterclass**
 
-<img src="https://res.cloudinary.com/dsperrtyj/image/upload/v1677143805/data-structure_xvjtb1.png" title="My learning proggress">
+<img src="https://res.cloudinary.com/dsperrtyj/image/upload/v1678989057/datastructures_cregbw.png" title="My learning proggress">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Boydem?tab=repositories](https://github.com/Boydem?tab=repositories)
 
