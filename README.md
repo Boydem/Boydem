@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noam</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-- 🔭 I’m currently working on Airbnb clone with ReactTS | Repository: [Click here](https://github.com/boydem/airbnb-frontend) View on pages: [Click here](https://boydem.github.io/airbnb-frontend)
+- ❤ Check Out My Portfolio (In progress) [Click here](https://main--resplendent-unicorn-a8c7fc.netlify.app/)
+
+- 🔭 I’m currently working on Airbnb clone with ReactTS | Repository: [Click here](https://github.com/boydem/airbnb-frontend) View on render: [Click here](https://airbnb-frontend-y5qm.onrender.com/)
 
 - 👾 Play with simon [Simon says](https://boydem.github.io/simon-frontend/)
 
