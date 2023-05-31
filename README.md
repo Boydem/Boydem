@@ -8,7 +8,7 @@
 - 👾 Play with simon [Simon says](https://boydem.github.io/simon-frontend/)
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures Masterclass**
-- 
+
 ![image](https://github.com/Boydem/Boydem/assets/93376408/58b6603f-4c51-45a3-b205-a67826b4ccc8)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Boydem?tab=repositories](https://github.com/Boydem?tab=repositories)
